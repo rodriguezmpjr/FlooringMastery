@@ -1,0 +1,14 @@
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.UI\bin\Debug\SWCCorp.UI.exe.config
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.UI\bin\Debug\SWCCorp.UI.exe
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.UI\bin\Debug\SWCCorp.UI.pdb
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.UI\bin\Debug\SWCCorp.BLL.dll
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.UI\bin\Debug\SWCCorp.Models.dll
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.UI\bin\Debug\SWCCorp.Data.dll
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.UI\bin\Debug\SWCCorp.BLL.pdb
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.UI\bin\Debug\SWCCorp.Models.pdb
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.UI\bin\Debug\SWCCorp.Data.pdb
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.UI\obj\Debug\SWCCorp.UI.csprojAssemblyReference.cache
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.UI\obj\Debug\SWCCorp.UI.csproj.CoreCompileInputs.cache
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.UI\obj\Debug\SWCCorp.UI.csproj.CopyComplete
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.UI\obj\Debug\SWCCorp.UI.exe
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.UI\obj\Debug\SWCCorp.UI.pdb

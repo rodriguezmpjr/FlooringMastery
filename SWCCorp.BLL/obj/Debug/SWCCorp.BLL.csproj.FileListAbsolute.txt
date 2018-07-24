@@ -1,0 +1,11 @@
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.BLL\bin\Debug\SWCCorp.BLL.dll
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.BLL\bin\Debug\SWCCorp.BLL.pdb
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.BLL\bin\Debug\SWCCorp.Data.dll
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.BLL\bin\Debug\SWCCorp.Models.dll
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.BLL\bin\Debug\SWCCorp.Data.pdb
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.BLL\bin\Debug\SWCCorp.Models.pdb
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.BLL\obj\Debug\SWCCorp.BLL.csprojAssemblyReference.cache
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.BLL\obj\Debug\SWCCorp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.BLL\obj\Debug\SWCCorp.BLL.csproj.CopyComplete
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.BLL\obj\Debug\SWCCorp.BLL.dll
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.BLL\obj\Debug\SWCCorp.BLL.pdb

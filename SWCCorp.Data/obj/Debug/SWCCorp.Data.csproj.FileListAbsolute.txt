@@ -1,0 +1,9 @@
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.Data\bin\Debug\SWCCorp.Data.dll
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.Data\bin\Debug\SWCCorp.Data.pdb
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.Data\bin\Debug\SWCCorp.Models.dll
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.Data\bin\Debug\SWCCorp.Models.pdb
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.Data\obj\Debug\SWCCorp.Data.csprojAssemblyReference.cache
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.Data\obj\Debug\SWCCorp.Data.csproj.CoreCompileInputs.cache
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.Data\obj\Debug\SWCCorp.Data.csproj.CopyComplete
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.Data\obj\Debug\SWCCorp.Data.dll
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.Data\obj\Debug\SWCCorp.Data.pdb

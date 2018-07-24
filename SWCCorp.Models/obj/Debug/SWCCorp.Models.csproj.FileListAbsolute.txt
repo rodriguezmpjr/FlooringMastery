@@ -1,0 +1,5 @@
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.Models\bin\Debug\SWCCorp.Models.dll
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.Models\bin\Debug\SWCCorp.Models.pdb
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.Models\obj\Debug\SWCCorp.Models.csproj.CoreCompileInputs.cache
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.Models\obj\Debug\SWCCorp.Models.dll
+C:\Users\mrodr\Documents\Bitbucket\michael-rodriguez-individual-work\SWCCorp\SWCCorp.Models\obj\Debug\SWCCorp.Models.pdb
